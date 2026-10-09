@@ -7,6 +7,13 @@ at release time by the Hellforge build pipeline.
      deste comentário, mais recente primeiro. Não editar à mão: o conteúdo é sobrescrito a
      cada release automático. -->
 
+## v0.15 (beta) - 2026-10-09
+
+- Ignora a pasta do GitHub Actions self-hosted runner
+- Corrige a publicacao silenciosamente incompleta no R2 e o encoding do changelog
+
+
+
 ## v0.14 (beta) - 2026-10-09
 
 - Ajustes internos.
